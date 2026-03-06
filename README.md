@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img alt="StackShare Black Lives Matter - Dev Tools" src="stackshare_dev_tools_for_blm.jpg">
+  <img alt="StackShare Black Lives Matter - Dev Tools" src="stackshare_dev_tools_for_blm.jpg"> 
 </div> 
 
 # Developer Tools for #BlackLivesMatter
